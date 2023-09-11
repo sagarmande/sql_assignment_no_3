@@ -1,0 +1,5 @@
+The process of creating a function and then calling another function from within it is called "function composition" or "nested function calls." In programming, functions are often designed to perform specific tasks, and you can organize your code by breaking down complex tasks into smaller, more manageable functions. When one function calls another function, it allows you to modularize your code and make it more readable and maintainable. This is a common practice in programming to promote code reusability and maintainability.
+
+
+
+
